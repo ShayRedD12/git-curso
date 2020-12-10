@@ -1,0 +1,21 @@
+primero se usa el comando 
+git init
+es para decirli que iniciaremos en ese proyecto un git
+despues se usa el comando 
+git status
+para ver lo que tengo en ese proyecto 
+luego uso el comando 
+git add "nombre archivo agrear"
+para agregar todos los archivos eso se hace con cada uno de ellos 
+luego el comando 
+git commit
+para hacer las configuraciones ahi me muestra como se configura
+luego de hacer las configuraciones vuelvo a dar 
+git commit 
+para entrar a un archivo y comentar los cambios 
+luego lo guardo
+luego uso el comando 
+git log 
+que sirve para diferenciar cada version que se haga 
+y si doy 
+git status me muestra que todos los cambios fueron realizados
